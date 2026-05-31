@@ -1,2 +1,2 @@
 # jelly
-Jelly is a Java-inspired programming language focused on backend development and coding interviews.
+"Jelly is a Java-inspired language with Python-like simplicity for coding interviews and backend development."
